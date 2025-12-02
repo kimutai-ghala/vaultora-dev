@@ -215,7 +215,7 @@ const Index = () => {
             </div>
             
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
-              <span className="text-gradient-primary">Securing Your</span>
+              <span className="text-gradient-primary">Secure Your</span>
               <br />
               <span className="text-foreground">Digital Future</span>
             </h1>
